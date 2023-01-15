@@ -15,12 +15,12 @@ Tema:
 ## Sobre 
 Aqui serão postadas algumas resoluções de exercicios referentes ao tema de Greed. 
 
-## <b>Exercícios:</b>
+## <b>Exercícios (beecrowd):</b>
 
-### <b>Exercício 1: (beecrowd 1055) Soma Permutada Elegante</b>
+### <b>Exercício 1: 1055 - Soma Permutada Elegante</b>
 - Clique [<b>aqui</b>](https://www.beecrowd.com.br/judge/pt/problems/view/1055) para ver o exercício.
 - Screenshot da submissão: ![image](./images/1055.png)
 
-### <b>Exercício 2:</b>
-- _Link_: 
-- Screenshot da submissão: 
+### <b>Exercício 2: 1034 - Festival de Estátuas de Gelo</b>
+- Clique [<b>aqui</b>](https://www.beecrowd.com.br/judge/pt/problems/view/1034) para ver o exercício.
+- Screenshot da submissão: ![image](./images/1055.png)
